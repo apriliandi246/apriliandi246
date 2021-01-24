@@ -1,4 +1,4 @@
-# JUST DO IT 🚀🚀🚀🚀
+<h2 align="center">JUST DO IT 🚀🚀🚀🚀</h2>
 
 <br>
 
