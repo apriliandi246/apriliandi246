@@ -1,7 +1,1 @@
-<h2 align="center">JUST DO IT 🚀🚀🚀🚀</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://pics.me.me/i-wanna-code-but-i-dont-know-how-to-get-66204361.png" alt="meme" />
-</p>
+# Hi 👋, I'm Farhan Apriliandi
