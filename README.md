@@ -6,7 +6,6 @@ I am a *frontend developer* from **Indonesia**
 - 🌱 Learning about *design system to make my own too*
 - 💬 Talk to me about **HTML**, **CSS**, **Tailwindcss**, **Javascript**, and other **tools for frontend developer**
 
-<br>
 
 ![Farhan Apriliandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=apriliandi246&show_icons=true&theme=radical&title_color=ffffff)
 
