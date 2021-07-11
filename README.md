@@ -10,7 +10,6 @@ I am a *frontend developer* from **Indonesia**
 
 ![Farhan Apriliandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=apriliandi246&show_icons=true&theme=radical&title_color=ffffff)
 
-<br>
 
 ## Connect with me
 [<img align="left" alt="my website" src="https://img.shields.io/badge/My Website-FFA500?style=for-the-badge&logo=rss&logoColor=white" />](https://apriliandi.xyz/)
