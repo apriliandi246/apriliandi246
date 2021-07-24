@@ -6,9 +6,11 @@ I am a *frontend developer* from **Indonesia**
 - 🌱 Learning about *design system to make my own too*
 - 💬 Talk to me about **HTML**, **CSS**, **Tailwind CSS**, **Javascript**, and other **tools for frontend developer**
 
+<h3 align="center">. . .</h3>
 
 ![Farhan Apriliandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=apriliandi246&show_icons=true&theme=radical&title_color=ffffff)
 
+<h3 align="center">. . .</h3>
 
 ## Connect with me
 [<img align="left" alt="my website" src="https://img.shields.io/badge/My Website-FFA500?style=for-the-badge&logo=rss&logoColor=white" />](https://apriliandi.xyz/)
@@ -19,3 +21,5 @@ I am a *frontend developer* from **Indonesia**
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/calon_jenazah__)
 
 <br><br>
+
+<h3 align="right">(⌐■_■)</h3>
