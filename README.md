@@ -12,7 +12,8 @@ I am a *frontend developer* from **Indonesia**
 
 <h3 align="center">. . .</h3>
 
-## Connect with me
+### Some sh*t 📲
+
 [<img align="left" alt="my website" src="https://img.shields.io/badge/My Website-FFA500?style=for-the-badge&logo=rss&logoColor=white" />](https://apriliandi.xyz/)
 [<img align="left" alt="gitlab" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/apriliandi246)
 [<img align="left" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/apriliandi246)
